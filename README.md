@@ -15,6 +15,10 @@ bower install mr-bootstrap-bb-alert
 
 to the require section of your `bower.json` file.
 
+## Demo
+
+[demo](https://mackrais-organization.github.io/mr-bootstrap-bb-alert/)
+
 ## Usage js events
 
 ```js
